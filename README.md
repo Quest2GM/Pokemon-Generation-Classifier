@@ -6,6 +6,6 @@ See docs for more information!
 
 Created By: Shashwat Panwar, Prerak Chaudhari, Connor Lee, Siddarth Narasimhan
 
-# Acknowledgements
+## Acknowledgements
 
 [PyLessons](https://pylessons.com/) for the YOLOv3 code and tutorials.
