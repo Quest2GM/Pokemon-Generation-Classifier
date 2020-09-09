@@ -1,6 +1,6 @@
 # Pokémon-Generation-Classifier
 
-Here is a YouTube video explaining how it works: [Video](youtube.com/watch?v=XIOfucB3zKg)
+Here is a YouTube video explaining how it works: [Video](https://youtube.com/watch?v=XIOfucB3zKg)
 
 See docs for more information!
 
