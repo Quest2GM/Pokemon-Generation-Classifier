@@ -5,3 +5,7 @@ Here is a YouTube video explaining how it works: [Video](https://youtube.com/wat
 See docs for more information!
 
 Created By: Shashwat Panwar, Prerak Chaudhari, Connor Lee, Siddarth Narasimhan
+
+# Acknowledgements
+
+[PyLessons](https://pylessons.com/) for the YOLOv3 code and tutorials.
