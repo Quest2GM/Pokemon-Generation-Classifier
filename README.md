@@ -1,5 +1,7 @@
-# Pokemon-Generation-Classifier
+# Pokémon-Generation-Classifier
 
-A machine learning model that identifies the generation of hardware that a Pokemon sprite corresponds to.
+Here is a YouTube video explaining how it works: [Video](youtube.com/watch?v=XIOfucB3zKg)
 
 See docs for more information!
+
+Created By: Shashwat Panwar, Prerak Chaudhari, Connor Lee, Siddarth Narasimhan
