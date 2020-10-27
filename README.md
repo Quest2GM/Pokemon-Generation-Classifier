@@ -8,4 +8,4 @@ Created By: Shashwat Panwar, Prerak Chaudhari, Connor Lee, Siddarth Narasimhan
 
 ## Acknowledgements
 
-[PyLessons](https://pylessons.com/) for the YOLOv3 code and tutorials.
+[PyLessons](https://pylessons.com/) for the YOLOv3 code/tutorials.
